@@ -6,5 +6,4 @@ Simple YoutubeDownloader app in Python
 `pip install pytube`
 
 `tkinter`
-
 `os`

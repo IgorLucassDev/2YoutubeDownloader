@@ -1,4 +1,4 @@
-# 2YoutubeDownloader
+# YoutubeDownloader
 Simple YoutubeDownloader app in Python
 
 #Python Libs

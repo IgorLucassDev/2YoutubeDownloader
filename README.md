@@ -1,5 +1,5 @@
 # YoutubeDownloader
-Simple YoutubeDownloader app in Python
+Simple YoutubeDownloader app in Python using Tkinter
 
 #Python Libs
 

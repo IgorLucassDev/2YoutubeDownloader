@@ -1,7 +1,7 @@
 # YoutubeDownloader
 Simple YoutubeDownloader app in Python using Tkinter
 
-#Python Libs
+# Python Libs
 
 `pip install pytube`
 
